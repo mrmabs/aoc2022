@@ -17,3 +17,10 @@ $ `sqlite3 day2.db < day2pt2.sql`
 $ `cat day3-input.txt | gawk -f day3pt1.awk`
 
 $ `cat day3-input.txt | gawk -f day3pt2.awk`
+
+## Day 4 - Haskell
+
+$ `runhaskell day4pt1.hs < day4-input.txt`
+
+$ `runhaskell day4pt2.hs < day4-input.txt`
+
