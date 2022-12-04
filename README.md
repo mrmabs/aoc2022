@@ -9,9 +9,11 @@ $ `bash day1.sh`
 ## Day 2
 
 $ `sqlite3 day2.db < day2pt1.sql`
+
 $ `sqlite3 day2.db < day2pt2.sql`
 
 ## Day 3
 
 $ `cat day3-input.txt | gawk -f day3pt1.awk`
+
 $ `cat day3-input.txt | gawk -f day3pt2.awk`
