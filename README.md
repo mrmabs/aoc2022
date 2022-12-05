@@ -24,3 +24,9 @@ $ `runhaskell day4pt1.hs < day4-input.txt`
 
 $ `runhaskell day4pt2.hs < day4-input.txt`
 
+## Day 5 - Perl
+
+$ `perl day5pt1.pl < day5-input.txt`
+
+$ `perl day5pt2.pl < day5-input.txt`
+
