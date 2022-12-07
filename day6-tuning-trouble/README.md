@@ -2,7 +2,7 @@
 
 ## In x86-64 assembler!
 
-I ran into some interesting issues with writing this one in assembler, I was able to switch into assembler thinking mode easy enough, but when I was writing 8086 assembler while I was a teenager, I didn't do many functions and loops. I fell into a lot of issues a few times until I took a step back, and rethought the problem out in assembler, rather than trying to apply techniques from high level interpretive languages that I have become accustom too. 
+I ran into some interesting issues with writing this one in assembler, I was able to switch into assembler thinking mode easy enough, but when I was writing 8086 assembler while I was a teenager, I didn't do many functions and loops. I fell into a lot of issues a few times until I took a step back, and rethought the problem out in assembler, rather than trying to apply techniques from high level interpretive languages that I have become accustomed too. 
 
 At one stage I was putting out my hair when some code that roughly looked like this:
 
