@@ -3,7 +3,7 @@ SECTION .bss
         counter: resq 1
         compsize: resq 1
     SECTION .data
-	    newline db 0ah, 0
+        newline db 0ah, 0
         message db "Marker: %d", 0ah, 0
         debugbuf db "Buf: %c, %c, %c, %c", 0ah, 0
         size    dq 14
