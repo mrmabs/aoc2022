@@ -28,3 +28,6 @@ $ `runhaskell day4pt2.hs < day4-input.txt`
 
 ## Day 6 - x86-64 Assembly
 
+## Day 7 - Php
+
+## Day 8 - R
