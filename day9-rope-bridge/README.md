@@ -1,6 +1,6 @@
 # Day 8 Rope Bridge
 
-## This on in, [Free]Pascal
+## This one in, [Free]Pascal
 
 Not quite catching up yet, but getting through. This one was interesting, working within the limitations of the FreePascal language. At one stage I had the code working for part one, but it didn't translate to part 2, so a rewrite was in order and I got it going for both.
 
