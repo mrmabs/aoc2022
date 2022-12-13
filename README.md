@@ -31,3 +31,8 @@ $ `runhaskell day4pt2.hs < day4-input.txt`
 ## Day 7 - Php
 
 ## Day 8 - R
+
+## Day 9 - FreePascal
+
+## Day 10 - GNU SmallTalk
+
