@@ -6,22 +6,23 @@ The strategy here is to knock over the languages that are harder first, and come
 
 Ranking in personal difficulty, due to learning curve, language complexity or bugginess; hardest at the top:
 
-## Day 10 - GNU SmallTalk
+* Day 10 - GNU SmallTalk
 
-## Day 03 - [g]awk
+* Day 03 - [g]awk
 
-## Day 05 - Perl
+* Day 05 - Perl
 
-## Day 07 - Php
+* Day 07 - Php
 
-## Day 09 - FreePascal
+* Day 09 - FreePascal
 
-## Day 04 - Haskell
+* Day 04 - Haskell
 
-## Day 06 - x86-64 Assembly
+* Day 06 - x86-64 Assembly
 
-## Day 08 - R
+* Day 08 - R
 
-## Day 02 - SQLite
+* Day 02 - SQLite
 
-## Day 01 - Bash
+* Day 01 - Bash
+
