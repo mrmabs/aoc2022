@@ -12,6 +12,8 @@ Ranking in personal difficulty, due to learning curve, language complexity or bu
 
 * Day 05 - Perl
 
+* Day 11 - Ruby
+
 * Day 07 - Php
 
 * Day 09 - FreePascal
@@ -20,9 +22,13 @@ Ranking in personal difficulty, due to learning curve, language complexity or bu
 
 * Day 06 - x86-64 Assembly
 
+* Day 12 - GWBASIC
+
 * Day 08 - R
 
 * Day 02 - SQLite
+
+* Day 13 - Javascript
 
 * Day 01 - Bash
 
